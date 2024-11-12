@@ -87,3 +87,4 @@ The task is to implement functions on different Core JS topics. This module requ
 ---
 
 The task based on <https://github.com/rolling-scopes-school/js-assignments>.
+Danila Kazakou did this ex. 
